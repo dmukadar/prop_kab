@@ -2,7 +2,6 @@
 Ini adalah script SQL backup dari [google_code](https://code.google.com/p/simuktiblogspot/source/browse/trunk/sql/simuktiblogspot_data_kabupaten_propinsi_indonesia.sql) yang berisi data nama kabupaten dan propinsi di Indonesia.
 
 #### RELASI ####
-Berikut adalah relasi (EER Diagram) dari data tersebut:
 ![EER Diagram](https://lh4.googleusercontent.com/-NTx1w6udjqs/TukFwan1IxI/AAAAAAAAAXA/fEDpCBCGzwE/s286/kabupaten_propinsi.png "EER Diagram Kabupaten Propinsi Indonesia")
 
 #### CONTACT ####
