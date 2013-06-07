@@ -71,7 +71,8 @@ INSERT INTO `propinsi` (`id_propinsi`, `nama_propinsi`) VALUES
 (30, 'Maluku'),
 (31, 'Maluku Utara'),
 (32, 'Papua'),
-(33, 'Papua Barat');
+(33, 'Papua Barat'),
+(34, 'Kalimantan Utara');
 
 -- -----------------------------------------------------
 -- Data untuk tabel `kabupaten`
@@ -429,19 +430,19 @@ INSERT INTO `kabupaten` (`id_kabupaten`, `nama_kabupaten`, `id_propinsi`) VALUES
 (350, 'Kabupaten Seruyan', 22),
 (351, 'Kota Palangka Raya', 22),
 (352, 'Kabupaten Berau', 23),
-(353, 'Kabupaten Bulungan', 23),
+(353, 'Kabupaten Bulungan', 34),
 (354, 'Kabupaten Kutai Barat', 23),
 (355, 'Kabupaten Kutai Kartanegara', 23),
 (356, 'Kabupaten Kutai Timur', 23),
-(357, 'Kabupaten Malinau', 23),
-(358, 'Kabupaten Nunukan', 23),
+(357, 'Kabupaten Malinau', 34),
+(358, 'Kabupaten Nunukan', 34),
 (359, 'Kabupaten Paser', 23),
 (360, 'Kabupaten Penajam Paser Utara', 23),
-(361, 'Kabupaten Tana Tidung', 23),
+(361, 'Kabupaten Tana Tidung', 34),
 (362, 'Kota Balikpapan', 23),
 (363, 'Kota Bontang', 23),
 (364, 'Kota Samarinda', 23),
-(365, 'Kota Tarakan', 23),
+(365, 'Kota Tarakan', 34),
 (366, 'Kabupaten Boalemo', 24),
 (367, 'Kabupaten Bone Bolango', 24),
 (368, 'Kabupaten Gorontalo', 24),
