@@ -576,4 +576,5 @@ INSERT INTO `kabupaten` (`id_kabupaten`, `nama_kabupaten`, `id_propinsi`) VALUES
 (496, 'Kabupaten Teluk Bintuni', 33),
 (497, 'Kabupaten Teluk Wondama', 33),
 (498, 'Kota Sorong', 33),
-(499, 'Kabupaten Pangandaran', 12);
+(499, 'Kabupaten Pangandaran', 12),
+(500, 'Kabupaten Pesisir Barat', 8);
