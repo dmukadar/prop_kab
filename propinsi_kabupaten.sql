@@ -137,7 +137,6 @@ INSERT INTO `kabupaten` (`id_kabupaten`, `nama_kabupaten`, `id_propinsi`) VALUES
 (57, 'Kabupaten Bengkulu Selatan', 3),
 (58, 'Kabupaten Bengkulu Tengah', 3),
 (59, 'Kabupaten Bengkulu Utara', 3),
-(60, 'Kabupaten Benteng', 3),
 (61, 'Kabupaten Kaur', 3),
 (62, 'Kabupaten Kepahiang', 3),
 (63, 'Kabupaten Lebong', 3),
